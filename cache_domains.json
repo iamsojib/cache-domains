@@ -136,6 +136,11 @@
 			"name": "filehippo",
 			"description": "CDN for filehippo",
 			"domain_files": ["filehippo.txt"]
+		},
+		{
+			"name": "fusionbd",
+			"description": "CDN for fusionbd",
+			"domain_files": ["fusionbd.txt"]
 		}
 	]
 }
