@@ -126,6 +126,16 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "moviebazar",
+			"description": "CDN for moviebazar",
+			"domain_files": ["moviebazar.txt"]
+		},
+		{
+			"name": "filehippo",
+			"description": "CDN for filehippo",
+			"domain_files": ["filehippo.txt"]
 		}
 	]
 }
