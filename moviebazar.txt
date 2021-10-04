@@ -1,0 +1,6 @@
+cdn2.moviebazar.net
+cdn3.moviebazar.net
+cdn4.moviebazar.net
+cdn20.moviebazar.net
+cdn21.moviebazar.net
+cdn22.moviebazar.net
