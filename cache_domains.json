@@ -118,6 +118,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "globalcdn",
+			"description": "CDN for mixed urls",
+			"domain_files": ["globalcdn.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
