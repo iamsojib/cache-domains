@@ -1,1 +1,4 @@
-
+www.speedtest.com.sg
+c.speedtestcustom.com
+speedtest.com.sg.prod.hosts.ooklaserver.net
+speedtestsg.speedtestcustom.com
